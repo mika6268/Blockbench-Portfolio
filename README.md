@@ -13,3 +13,4 @@ A portfolio showcasing custom Minecraft items, blocks, and 3D models created wit
 ## pet
 
 ### 01. gugugaga (초안: draft)
+![gugugaga](gugugaga.png)
